@@ -6,7 +6,7 @@ package com.lotaris.labs.lpe.prototypes.mywebapp;
 
 /**
  *
- * @author oliechti
+ * @author oliechti (mod)
  */
 public class Helper {
 	
